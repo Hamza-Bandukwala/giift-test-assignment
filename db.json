@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "userName": "User 2 updated",
+      "status": true,
+      "createdAt": "1/26/2023, 5:28:34 PM",
+      "lastUpdatedAt": "1/26/2023, 5:37:56 PM",
+      "id": 2
+    },
+    {
+      "userName": "User 3",
+      "status": false,
+      "createdAt": "1/26/2023, 5:31:22 PM",
+      "lastUpdatedAt": "1/26/2023, 5:38:05 PM",
+      "id": 3
+    },
+    {
+      "userName": "User 4",
+      "status": true,
+      "createdAt": "1/26/2023, 6:02:41 PM",
+      "lastUpdatedAt": "1/26/2023, 6:02:41 PM",
+      "id": 4
+    },
+    {
+      "userName": "User 5",
+      "status": true,
+      "createdAt": "1/26/2023, 6:04:06 PM",
+      "lastUpdatedAt": "1/26/2023, 6:04:06 PM",
+      "id": 5
+    },
+    {
+      "userName": "User 6 updated",
+      "status": false,
+      "createdAt": "1/26/2023, 6:04:26 PM",
+      "lastUpdatedAt": "1/26/2023, 6:04:36 PM",
+      "id": 6
+    },
+    {
+      "userName": "User 7",
+      "status": true,
+      "createdAt": "1/26/2023, 9:40:02 PM",
+      "lastUpdatedAt": "1/26/2023, 9:40:02 PM",
+      "id": 7
+    }
+  ]
+}
